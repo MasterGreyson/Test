@@ -1,4 +1,4 @@
 # Test
 
 
-[![Master](https://img.shields.io/badge/Master-Greyson-blue?style=for-the-badge&logo=github&logocolor=white)](https://github.com/MasterGreyson)
+[![Master](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logocolor=white)](python.org)
